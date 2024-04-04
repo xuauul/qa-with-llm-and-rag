@@ -1,5 +1,7 @@
 # Question Answering App using Vector Search + RAG
 
+![demo](./demo.png)
+
 This project is an interactive question answering application that combines the power of Atlas Vector Search with Langchain's RetrieverQA and OpenAI LLM.
 
 ## Description
