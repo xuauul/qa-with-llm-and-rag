@@ -1,7 +1,3 @@
-Sure, here's a simple README file based on the provided information:
-
----
-
 # Question Answering App using Vector Search + RAG
 
 This project is an interactive question answering application that combines the power of Atlas Vector Search with Langchain's RetrieverQA and OpenAI LLM.
